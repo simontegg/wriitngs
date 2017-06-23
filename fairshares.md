@@ -92,15 +92,49 @@ However, converion rates to premium are typcially 1-20% of the total (free + pai
 
 # Stakeholder Tensions
 
-Stakeholders have different needs and can pull company in different directions. We note a tension between government and providers. The more providers on the platform the more valuable the data and the more leverage we have in our negotations with government. Charging providers for the accreditation service means less providers sign-up and the platform is less valuable to agencies. Agencies understand that we must solve provider pain points for them to use the platform, but also want us to focus on internal integrations. 
+Stakeholders have different needs and can pull company in different directions. We note a tension between government and providers. The more providers on the platform the more valuable the data and the more leverage we have in our negotations with government. 
+
+Charging providers for the accreditation service means less providers sign-up and the platform is less valuable to agencies. Agencies understand that we must solve provider pain points for them to use the platform, but also want us to focus on internal integrations. 
 
 
 # Fairshares
 
-Fairshares is a multistakeholder. Fairshares recognises four classes of stakeholders:
+Fairshares is a model for multistakeholder cooperatives. I see 3 advantages that fairshares offers over other sharholding setips
 
- - Founders - people
- - 
+
+
+Fairshares recognises four classes of shareholders:
+
+ - Founders - people who establish the buiness and are [prepared to face the risks and uncertainties of doing so](https://steveblank.com/2009/06/11/am-i-founder-the-adventure-of-a-lifetime/)
+ - Workers - people who contribute labour to the business
+ - Users - people or groups who pay to use the service
+ - Investors - people who invest financial capital into the business.
+
+ Fairshares is unashamedly complex compared to an LLC or worker cooperatives. Individuals may hold multiple classes of shares and share classes do not have equal relationships in governaance and financial stakeholding. Ridley Duff argues that the tensions between different stakeholders will land somewhere else if they are not made explict in the constitution. 
+
+ For example, a common tension between startup founders and early employees is the value that an employe contributes to an enterprise and their exposure to risk vs the employee's particpaton in any financial upside. These tensions are ususally negotiated case-by-case through share allocation vesting schemes, HR policies, performance reviews etc.
+
+ 
+
+ Applying the Fairshares to Accreditron:
+
+  - Founders
+  - Employees
+  - Users - Social Service Providers 
+  - Investors - May include Founders, Employees, and Providers
+
+  Governance
+
+  In most Fairshares setups the Founders appoint the directors until the total number of sharholders is reached the business is established founders have 5 - 10% of shares 
+
+### Users
+
+
+
+
+ 
+
+
 
 
 
