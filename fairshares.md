@@ -87,23 +87,19 @@ TODO: Founders can reduce their pay
 
 Many Saas companies offer an inital free tier of service and a more fully-featured paid tier (freemium). Its possible that we could develop features for providers beyond accreditation for which they would be willing to pay. The NGO market is likely under-served by software vendors compared to the private sector. 
 
-However, converion rates to premium are typcially 1-20% of the total (free + paid) user-base, we have not validated them. Validation and development may only begin after existing funders are satisfied enough.
+However, converion rates to premium are typcially 1-20% of the total (free + paid) user-base. Validation and development of these features may only begin after existing funders are satisfied enough and this would not solve the shortfall issue. It is unknown how much we could charge for the premium version. Many Saas products are between $200-$500/ year
 
 
 # Stakeholder Tensions
 
-Stakeholders have different needs and can pull company in different directions. We note a tension between government and providers. The more providers on the platform the more valuable the data and the more leverage we have in our negotations with government. 
+Stakeholders have different needs and can pull company in different directions. We note the following tension between government and providers:
 
-Charging providers for the accreditation service means less providers sign-up and the platform is less valuable to agencies. Agencies understand that we must solve provider pain points for them to use the platform, but also want us to focus on internal integrations. 
+The more providers on the platform the more valuable the data and the more leverage we have in our negotations with government. Charging providers for the accreditation service means less providers sign-up and the platform is less valuable to agencies. Agencies understand that we must solve provider pain points for them to use the platform, but also want us to focus on internal integrations. 
 
 
 # Fairshares
 
-Fairshares is a model for multistakeholder cooperatives. I see 3 advantages that fairshares offers over other sharholding setips
-
-
-
-Fairshares recognises four classes of shareholders:
+Fairshares is a model for multistakeholder cooperatives. Fairshares recognises four classes of shareholders:
 
  - Founders - people who establish the buiness and are [prepared to face the risks and uncertainties of doing so](https://steveblank.com/2009/06/11/am-i-founder-the-adventure-of-a-lifetime/)
  - Workers - people who contribute labour to the business
@@ -112,7 +108,35 @@ Fairshares recognises four classes of shareholders:
 
  Fairshares is unashamedly complex compared to an LLC or worker cooperatives. Individuals may hold multiple classes of shares and share classes do not have equal relationships in governaance and financial stakeholding. Ridley Duff argues that the tensions between different stakeholders will land somewhere else if they are not made explict in the constitution. 
 
- For example, a common tension between startup founders and early employees is the value that an employe contributes to an enterprise and their exposure to risk vs the employee's particpaton in any financial upside. These tensions are ususally negotiated case-by-case through share allocation vesting schemes, HR policies, performance reviews etc.
+ For example, a common tension between startup founders and early employees is the value that an employe contributes to an enterprise and their exposure to risk vs the employee's particpaton in any financial upside. These tensions are ususally negotiated on a case-by-case through share allocation vesting schemes, HR policies, performance reviews etc.
+
+  The key benefit that fairshares has the potential to reframe the offering to providers. Instead of offering providers a choice between a free service (accreditation), and premium service (unknown) in a freemium model, we offer providers paid *membership* and share in the business, or *sponsored* (the accreditation service to providers who have no budget). 
+
+  Paid membership gives the provider:
+    - rebates from financial surplus
+    - a say in governance (appointing a board member etc)
+    - the knowledge that the platform is built to serve provider interests
+    - access to the sector intelligence features that we sell to agencies.
+
+  Paid memberships would not prevent us from offering tiered membership levels later with premium features later.
+
+  In comparison to a Freemium model a mebership offers its likely that:
+  1. We can begin offering membership as soon as we complete the accreditation flow MVP (November 2017). Compared to releasing premium features after we have finished phase 3 (July 2018 at the earlist)
+  2. Membership will have a higher conversion rate than a premium offering 
+  3. Membership fees will likely be lower than a premium subscriptions
+
+  As an example with untested assumptions:
+   - assuming 70 new providers sign up a month
+   - a 10% conversion premium compared to a 70% membership conversion
+   - a premium start date of July, 2018, vs a membership start of November, 2017
+   - price of $25 / month for premium and $10 / month for 
+  
+  These give ~$3k of 2018 revenue from premium and ~$45k of revenue from membership fees, 
+
+
+
+
+
 
  
 
@@ -123,12 +147,12 @@ Fairshares recognises four classes of shareholders:
   - Users - Social Service Providers 
   - Investors - May include Founders, Employees, and Providers
 
-  Governance
-
-  In most Fairshares setups the Founders appoint the directors until the total number of sharholders is reached the business is established founders have 5 - 10% of shares 
-
 ### Users
 
+
+## Governance
+
+  In most Fairshares setups the Founders appoint the directors until the total number of sharholders is reached the business is established founders have 5 - 10% of shares 
 
 
 
