@@ -90,14 +90,14 @@ Many Saas companies offer an inital free tier of service and a more fully-featur
 However, converion rates to premium are typcially 1-20% of the total (free + paid) user-base. Validation and development of these features may only begin after existing funders are satisfied enough and this would not solve the shortfall issue. It is unknown how much we could charge for the premium version. Many Saas products are between $200-$500/ year
 
 
-# Stakeholder Tensions
+## Stakeholder Tensions
 
 Stakeholders have different needs and can pull company in different directions. We note the following tension between government and providers:
 
 The more providers on the platform the more valuable the data and the more leverage we have in our negotations with government. Charging providers for the accreditation service means less providers sign-up and the platform is less valuable to agencies. Agencies understand that we must solve provider pain points for them to use the platform, but also want us to focus on internal integrations. 
 
 
-# Fairshares
+## Fairshares
 
 Fairshares is a model for multistakeholder cooperatives. Fairshares recognises four classes of shareholders:
 
@@ -133,13 +133,6 @@ Fairshares is a model for multistakeholder cooperatives. Fairshares recognises f
   
   These give ~$3k of 2018 revenue from premium and ~$45k of revenue from membership fees, 
 
-
-
-
-
-
- 
-
  Applying the Fairshares to Accreditron:
 
   - Founders
@@ -147,7 +140,7 @@ Fairshares is a model for multistakeholder cooperatives. Fairshares recognises f
   - Users - Social Service Providers 
   - Investors - May include Founders, Employees, and Providers
 
-### Users
+## Users
 
 
 ## Governance
@@ -168,7 +161,6 @@ Fairshares is a model for multistakeholder cooperatives. Fairshares recognises f
 
 
 
-The more 
 
   
 
