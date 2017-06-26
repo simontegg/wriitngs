@@ -131,7 +131,10 @@ Fairshares is a model for multistakeholder cooperatives. Fairshares recognises f
    - a premium start date of July, 2018, vs a membership start of November, 2017
    - price of $25 / month for premium and $10 / month for 
   
-  These give ~$3k of 2018 revenue from premium and ~$45k of revenue from membership fees, 
+  These give ~$3k of 2018 revenue from premium and ~$45k of revenue from membership fees.
+
+
+  ----
 
  Applying the Fairshares to Accreditron:
 
