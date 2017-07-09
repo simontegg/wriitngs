@@ -45,7 +45,7 @@ To recap, we anticipate the app will provide value in three areas:
 2. improve the assessor workflow, for agencies
 3. provide social sector intelligence, for agencies, and other social policy stakeholders
 
-An app with these functions is a not simple. We project early stage operating costs for Accreditron are around $500k - $600k annually for a team of 5-6. Revenue and/or capital could come from the following areas.
+An app with these functions is a not simple. We project early stage operating costs for Accreditron around $600k annually for a team of 5-6. Revenue and/or capital could come from the following areas.
 
 
 ### Revenue from NGO's
@@ -62,9 +62,9 @@ NGO's in the social sector recieve about half of their funding from government a
 
 5. When half of provider funding comes from government asking providers to pay creates a "money-go-round". 
 
-We estimate we could bring 500-1000 providers on to the platform per year, maybe more. Considering the context of the above challenges we do not beleive that revenue from NGO's (for the accreditation service) provides a significant revenue source and could even damage relationships with providers.
+We estimate we could bring 500-1000 providers on to the platform per year, maybe more. Considering the context of the above challenges we do not beleive that revenue from NGO's, **for the accreditation service** provides a significant revenue source and could even damage relationships with providers.
 
-### Revenue from Social Sector Agencies
+### Agency Contracts
 
 MSD and SIA have agreed to fund 9 months of development. MSD want to improve internal data sharing and assesor workflows. SIA want to gain intelligence on the social sector. 
 
@@ -72,7 +72,7 @@ The challenge is the Government sales cycle. Government contracts can take a 6-2
 
 After the 9 month initial build we anticpate negotiating a subscription/maintenance contract with MSD and initiate negotiations with other agencies. Subscription/maintence costs could be in the order of $20k-$200k annually per agency depending on how integral it was to agency workflows. 
 
-A further source of potential revenue is contracts to build custom integrations with their IT systems. These could be very valuable to, or required by agencies. However, custom integrations are labour intensive, usually do not scale beyond a specific agency, and can complicate the product. We note a tension here between the needs of an agency and the need of the Accreditron business to diversify beyond short-term contracts. 
+A further source of potential revenue is contracts to build custom integrations with their IT systems. These could be very valuable to, or required by agencies. However, custom integrations are labour intensive, may not scale beyond a specific agency, and can complicate the product. We note a tension here between the needs of an agency and the need of the Accreditron business to diversify beyond short-term contracts. 
 
 In the long run maintenance/subscription contracts could be a substantial revenue source. The problem is that Accreditron faces a funding shortfall of uncertain length **after** the initial 9 month build and **before** enough margin on maintenance contracts has kicked in.
 
@@ -80,21 +80,19 @@ In the long run maintenance/subscription contracts could be a substantial revenu
 
 Shortfalls are not unusual and startups often turn to to investors to fund them. Apart from the usual difficulties of raising capital from New Zealand's small Venture Capital (VC) pool we note that the challenges above would make us less atractive to VC's. In any case, getting investment can be a full time job and can take years to land. The best source of investment is revenue.
 
-TODO: Founders can reduce their pay
-
 
 ## Freemium
 
 Many Saas companies offer an inital free tier of service and a more fully-featured paid tier (freemium). Its possible that we could develop features for providers beyond accreditation for which they would be willing to pay. The NGO market is likely under-served by software vendors compared to the private sector. 
 
-However, converion rates to premium are typcially 1-20% of the total (free + paid) user-base. Validation and development of these features may only begin after existing funders are satisfied enough and this would not solve the shortfall issue. It is unknown how much we could charge for the premium version. Many Saas products are between $200-$500/ year
+However, converion rates to premium are typcially 1-20% of the total (free + paid) user-base. Validation and development of these features would have to be negotiated with funders as it would pull resources away from solving and this would not solve the shortfall issue. It is unknown how much we could charge for the premium version. Many Saas products are between $200-$500/ year
 
 
 ## Stakeholder Tensions
 
 Stakeholders have different needs and can pull company in different directions. We note the following tension between government and providers:
 
-The more providers on the platform the more valuable the data and the more leverage we have in our negotations with government. Charging providers for the accreditation service means less providers sign-up and the platform is less valuable to agencies. Agencies understand that we must solve provider pain points for them to use the platform, but also want us to focus on internal integrations. 
+The more providers on the platform the more valuable the data and the more leverage we have in our negotations with government. Charging providers for the accreditation service means less providers sign-up and the platform is less valuable to agencies. Our sponsor agencies are aware of these tensions. 
 
 
 ## Fairshares
@@ -113,25 +111,25 @@ Fairshares is a model for multistakeholder cooperatives. Fairshares recognises f
   The key benefit that fairshares has the potential to reframe the offering to providers. Instead of offering providers a choice between a free service (accreditation), and premium service (unknown) in a freemium model, we offer providers paid *membership* and share in the business, or *sponsored* (the accreditation service to providers who have no budget). 
 
   Paid membership gives the provider:
-    - rebates from financial surplus
-    - a say in governance (appointing a board member etc)
-    - the knowledge that the platform is built to serve provider interests
-    - access to the sector intelligence features that we sell to agencies.
+    - rebates from any financial surplus (unlikely to be more than token).
+    - a say in governance (appointing a board member etc).
+    - the knowledge that the platform is built to serve provider interests.
+    - potential access to the sector intelligence features that we sell to agencies (its their data after all).
 
   Paid memberships would not prevent us from offering tiered membership levels later with premium features later.
 
-  In comparison to a Freemium model a mebership offers its likely that:
-  1. We can begin offering membership as soon as we complete the accreditation flow MVP (November 2017). Compared to releasing premium features after we have finished phase 3 (July 2018 at the earlist)
-  2. Membership will have a higher conversion rate than a premium offering 
+  In comparison to a Freemium model a membership offers its likely that:
+  1. We can begin offering membership as soon as we complete the accreditation flow MVP (November 2017). Compared to releasing premium features parallel after we have finished phase 3 (July 2018 at the earlist)
+  2. Conversion to Membership will likely have a higher conversion rate than a premium offering 
   3. Membership fees will likely be lower than a premium subscriptions
 
-  As an example with untested assumptions:
-   - assuming 70 new providers sign up a month
-   - a 10% conversion premium compared to a 70% membership conversion
+  As a worked example with untested assumptions:
+   - 70 new providers sign up a month
+   - a 10% conversion premium vs a 70% membership conversion
    - a premium start date of July, 2018, vs a membership start of November, 2017
-   - price of $25 / month for premium and $10 / month for 
+   - price of $25 / month for premium and $10 / month for month
   
-  These give ~$3k of 2018 revenue from premium and ~$45k of revenue from membership fees.
+  Gives ~$3k of 2018 revenue from freemium and ~$45k of revenue from membership fees.
 
 
   ----
@@ -139,16 +137,43 @@ Fairshares is a model for multistakeholder cooperatives. Fairshares recognises f
  Applying the Fairshares to Accreditron:
 
   - Founders
-  - Employees
+  - Employees (incudes Founders)
   - Users - Social Service Providers 
   - Investors - May include Founders, Employees, and Providers
 
-## Users
+## Share class proportions
+
+  - Founders - 5 - 15%
+  - Employees - 25 - 40%
+  - Users - 20 - 40%
+  - Investors - 25 - 40%
 
 
 ## Governance
 
-  In most Fairshares setups the Founders appoint the directors until the total number of sharholders is reached the business is established founders have 5 - 10% of shares 
+  Founders appoint the directors until the total number of shareholders reaches a set threshhold (e.g. 500). Once their are more than the threshold each share class appoints a set number of directors with an option to appoint an external director with specialist financial management skills
+
+  Rationale: Startups and established businesses have different needs. Founders do not want to spend time external board directors too early and manage heavy governance obligations. 
+
+  Its likely we would use Loomio to manage the AGM.
+
+### Voting
+
+
+
+## Finanacial Stakeholding
+
+When fairshares coops make a profit it gets redistributed in proscribed ways:
+
+ 1. Pay tax - government share
+
+ 2. After tax a set amount goes to reserves and a special subsidiary company that purchases investor shares off exiting investors
+
+  This allows the company to have working capital.
+
+
+
+
 
 
 
