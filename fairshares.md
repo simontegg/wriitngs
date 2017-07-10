@@ -145,7 +145,7 @@ Fairshares is a model for multistakeholder cooperatives. Fairshares recognises f
 
   - Founders - 5 - 15%
   - Employees - 25 - 40%
-  - Users - 20 - 40%
+  - Users - 25 - 40%
   - Investors - 25 - 40%
 
 
@@ -173,6 +173,20 @@ When fairshares coops make a profit it gets redistributed in proscribed ways:
 
 
 
+
+
+## New Zealand Legal Context
+
+Companies registered under the Companies Act 1993 with 50 or more shareholders become a FMC reporting enitity [link](http://www.legislation.govt.nz/act/public/2013/0102/latest/whole.html#DLM5740333). And must meeth financial reporting and licenscing requirements. This means that share offers can only be made by licensed financial advisors 
+
+
+
+Companies registered under the cooperatives act where:
+
+  - Each shareholder invests less than $5000 in total
+  - the cooperative has less than $2 million in revenue
+
+are exempt from these requirements
 
 
 
